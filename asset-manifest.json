@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ce1ac559.chunk.css",
+    "main.js": "/portfolio/static/js/main.46b7ad82.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.46b7ad82.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c84d48ee.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c84d48ee.js.map",
+    "static/css/2.7145868b.chunk.css": "/portfolio/static/css/2.7145868b.chunk.css",
+    "static/js/2.9fce02d2.chunk.js": "/portfolio/static/js/2.9fce02d2.chunk.js",
+    "static/js/2.9fce02d2.chunk.js.map": "/portfolio/static/js/2.9fce02d2.chunk.js.map",
+    "static/js/3.1c17fb2b.chunk.js": "/portfolio/static/js/3.1c17fb2b.chunk.js",
+    "static/js/3.1c17fb2b.chunk.js.map": "/portfolio/static/js/3.1c17fb2b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.7145868b.chunk.css.map": "/portfolio/static/css/2.7145868b.chunk.css.map",
+    "static/css/main.ce1ac559.chunk.css.map": "/portfolio/static/css/main.ce1ac559.chunk.css.map",
+    "static/js/2.9fce02d2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9fce02d2.chunk.js.LICENSE.txt",
+    "static/media/MS-Sans-Serif.eot": "/portfolio/static/media/MS-Sans-Serif.30dfad5d.eot",
+    "static/media/MS-Sans-Serif.woff2": "/portfolio/static/media/MS-Sans-Serif.4fb9ed0f.woff2",
+    "static/media/MS-Sans-Serif.woff": "/portfolio/static/media/MS-Sans-Serif.82eeac7b.woff",
+    "static/media/MS-Sans-Serif.ttf": "/portfolio/static/media/MS-Sans-Serif.93905f8d.ttf",
+    "static/media/React95Video-Numbers.woff2": "/portfolio/static/media/React95Video-Numbers.1b0c9ed8.woff2",
+    "static/media/React95Video-Numbers.eot": "/portfolio/static/media/React95Video-Numbers.70eb4c83.eot",
+    "static/media/React95Video-Numbers.ttf": "/portfolio/static/media/React95Video-Numbers.abf01d42.ttf",
+    "static/media/React95Video-Numbers.woff": "/portfolio/static/media/React95Video-Numbers.cc52603d.woff",
+    "static/media/me.994c4779.png": "/portfolio/static/media/me.994c4779.png",
+    "static/media/ms_sans_serif.woff2": "/portfolio/static/media/ms_sans_serif.0348082a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/portfolio/static/media/ms_sans_serif_bold.7fcf57cc.woff2",
+    "static/media/windows_95_startup.deea572c.mp3": "/portfolio/static/media/windows_95_startup.deea572c.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c84d48ee.js",
+    "static/css/2.7145868b.chunk.css",
+    "static/js/2.9fce02d2.chunk.js",
+    "static/css/main.ce1ac559.chunk.css",
+    "static/js/main.46b7ad82.chunk.js"
+  ]
+}
